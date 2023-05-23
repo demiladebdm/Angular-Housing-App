@@ -22,7 +22,7 @@
     "http2": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/weatherforecast",
+      "launchUrl": "api/city",
       "applicationUrl": "http://localhost:5012",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
